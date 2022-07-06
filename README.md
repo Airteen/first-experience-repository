@@ -1,6 +1,6 @@
 # Тестовый проект
 
-## Secont caption
+## Second caption
 
 Текст ...... чтоб было
 
